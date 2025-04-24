@@ -102,7 +102,6 @@ else
     end
 end
 
-@info "Creating artifact for HTML entities"
 if isfile(savfile)
     artifact_toml = joinpath(@__DIR__, "..", "Artifacts.toml")
     hash = artifact_hash("htmlnames", artifact_toml)
