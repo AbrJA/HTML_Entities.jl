@@ -4,7 +4,7 @@ keywords = ["Entities", "HTML"]
 license = "MIT"
 desc = "Entities from HTML data tables"
 authors = ["ScottPJones <scottjones@alum.mit.edu>"]
-version = "1.0.3"
+version = "1.0.4"
 
 [deps]
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
